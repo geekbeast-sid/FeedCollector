@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/l9ylstqm84xkjl3f?svg=true)](https://ci.appveyor.com/project/madskristensen/webdevblogs)
 
-Demo: [webdevblogs.azurewebsites.net](http://webdevblogs.azurewebsites.net/)
+Demonstration: [webdevblogs.azurewebsites.net](http://webdevblogs.azurewebsites.net/)
 
 Feed Collector is a single-page feed aggregating website that allows you to combine
 multiple RSS/Atom feeds into a single feed and display them nicely on a web page.
